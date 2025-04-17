@@ -1,7 +1,9 @@
 # patient-triage
 
 This program takes as input an integer representing a patient health index and produces, as an output, a list of the
-services the patient must be redirected to.
+services the patient must be redirected to. 
+
+Only the first input argument is taken into account. Following arguments, if present, will be ignored.
 
 ## How to build
 ### with maven
